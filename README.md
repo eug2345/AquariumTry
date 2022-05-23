@@ -1,4 +1,4 @@
-# AquariumTry
+# AquariumProject
 Java-Intermediate-aQArium_exercise
 Create a Controller class pls
 Set up a MySQL database using the supplied SQL queries
